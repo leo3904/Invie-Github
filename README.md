@@ -1,2 +1,2 @@
 # Invie-Github
-Invie es lo mejor en Guitarras
+Invie es lo mejor en Guitarras creadas por artistas para artistas
