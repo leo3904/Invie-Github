@@ -1,2 +1,4 @@
-# Invie-Github
-Invie es lo mejor en Guitarras creadas por artistas para artistas
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
